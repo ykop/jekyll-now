@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Learning to make things. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cryptenigma18@gmail.com](mailto:cryptenigma18@gmail.com)
