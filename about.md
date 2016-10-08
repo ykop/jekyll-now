@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Learning to make things. 
+Learning to make better things. 
 
 ### Contact me
 
